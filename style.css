@@ -1,0 +1,11 @@
+h1{
+     text-align:center;
+     color:darksalmon;
+     /*text-transform: uppercase;*/
+}
+
+body{
+    background-color: beige;
+    /*background-image: url("path")
+    background-size:cover;*/
+} 
